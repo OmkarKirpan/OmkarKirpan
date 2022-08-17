@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omkar Kirpan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkirpan&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkirpan" /> </p>
+<p align="center"> 
+  <img src="https://www.codewars.com/users/omkarkirpan/badges/small" alt="codewars omkarkirpan" />
+  <img src="https://komarev.com/ghpvc/?username=omkarkirpan&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkirpan" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarkirpan" alt="omkarkirpan" /></a> </p>
 
