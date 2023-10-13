@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omkar Kirpan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![An image of @omkarkirpan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omkarkirpan)](https://holopin.io/@omkarkirpan)
+
 <p align="center"> 
   <a href="https://www.codewars.com/users/omkarkirpan">
     <img src="https://www.codewars.com/users/omkarkirpan/badges/small" alt="codewars omkarkirpan" />
