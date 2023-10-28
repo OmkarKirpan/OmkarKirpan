@@ -10,11 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=omkarkirpan&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkirpan" />
 </p>
 
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarkirpan" alt="omkarkirpan" /></a> </p>
-
+-->
 - 📝 I regularly write articles on [https://theunpaiddev.tumblr.com/](https://theunpaiddev.tumblr.com/)
 
-- 💬 Ask me about **react, nodejs and flutter**
+- 👨‍💻 All of my projects are available at [https://www.omkarkirpan.com/](https://www.omkarkirpan.com/)
+
+- 👨‍💻 All Links [https://links.omkarkirpan.com/](https://links.omkarkirpan.com/)
 
 - 📫 How to reach me **okirpan@gmail.com**
 
@@ -33,10 +36,11 @@
 <br>
 &nbsp;
 
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkirpan&show_icons=true&locale=en&layout=compact" alt="omkarkirpan" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarkirpan&show_icons=true&locale=en" alt="omkarkirpan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkirpan&" alt="omkarkirpan" /></p>
-
+-->
 
